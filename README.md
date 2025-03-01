@@ -1,1 +1,34 @@
-# CS330
+How do I approach designing software?
+In my software design process, I start by understanding the project's goals and the problem I’m trying to solve. I break down the requirements and identify the necessary components and features of the software. I think that designing software was a very difficult obstacle for me, because I am not the most talented or strong in designing, which created some difficulties for me along the way, but through breaking down and understanding the goals, I was able to achieve the assignment's requirements much better. 
+
+What new design skills has your work on the project helped you to craft?
+Working on this 3D scene has sharpened my skills in 3D modeling, scene management, and handling complex graphical data structures. I also gained a better understanding of spatial reasoning, lighting, and textures, which are critical in computational graphics. Additionally, I honed my ability to design user interfaces that interact with 3D environments, considering both aesthetic appeal and usability.
+
+What design process did you follow for your project work?
+For the 3D scene, I followed an iterative design process. Initially, I conceptualized the scene and created rough sketches or wireframes. I then moved on to prototyping, where I implemented basic shapes and objects. After getting the foundational elements in place, I iterated by adding textures, lighting, and interactions. Testing the scene in various conditions, such as different lighting setups or camera angles, helped me refine the visual and functional aspects of the scene. At each step, I sought feedback and made adjustments accordingly.
+
+How could tactics from your design approach be applied in future work?
+The iterative design process and focus on feedback loops are tactics I can apply to future projects. By starting with a simple prototype and gradually adding complexity, I can ensure the stability and usability of the software. The practice of continuous testing and adjustment is essential, especially when developing interactive applications or visualizations. These principles can be applied to any future software development, especially in areas like UI/UX design and system architecture.
+
+How do I approach developing programs?
+I approach program development by first breaking down the problem into smaller, manageable tasks. I then write clear and efficient code while considering maintainability and readability. I also focus on modularizing my code, ensuring that each function or module has a single responsibility. After writing the code, I rigorously test it and debug any issues that arise. Collaboration is also a key part of my development process, as sharing ideas and reviewing others' code helps me grow as a developer.
+
+What new development strategies did you use while working on your 3D scene?
+While working on my 3D scene, I used a more modular approach to manage the different components of the scene, such as lighting, textures, and objects. This helped keep the project organized and made it easier to troubleshoot. I also used optimization techniques like culling and level-of-detail (LOD) to improve performance, which was particularly important for rendering complex 3D objects smoothly.
+
+How did iteration factor into your development?
+Iteration played a major role in my development process. I started with basic shapes and functionality, then gradually refined them through multiple iterations. Each iteration involved adding more details, improving the code, and addressing any issues. For example, I might have iterated over the placement and scaling of objects in the 3D space, adjusting lighting angles and effects until they looked correct. This iterative process helped me stay flexible and make continuous improvements throughout the project.
+
+How has your approach to developing code evolved throughout the milestones, which led you to the project’s completion?
+At the start of the project, my approach was more focused on getting the basics right, such as managing simple objects and their interactions. As the project progressed, I became more concerned with optimizing performance and fine-tuning the visuals. I learned to take a more systematic approach to debugging and testing, ensuring that each part of the code was functioning as expected before adding more complexity. I also grew in my ability to manage larger sets of data and complex interactions between different components, which allowed me to complete the project in a more efficient and structured manner.
+
+How can computer science help me in reaching my goals?
+Computer science provides the foundation for problem-solving, critical thinking, and innovation, which are essential for achieving my professional goals. It enables me to develop software, understand complex systems, and analyze data in ways that help solve real-world problems. The skills I’ve developed in coding, algorithms, and systems design will help me in my future career, whether it's developing new technologies, working with large-scale data, or contributing to innovations in various fields like entertainment, engineering, or healthcare.
+
+How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future educational pathway?
+Computational graphics and visualizations have taught me the importance of visualizing complex data in an intuitive way. I’ve gained hands-on experience in creating 3D models, textures, and animations, which helps me understand how to represent abstract data in a more comprehensible form. These skills are crucial for future educational work, especially in fields like data science, machine learning, and virtual reality, where graphical representations are key for analyzing and interpreting data.
+
+How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future professional pathway?
+In the professional world, computational graphics and visualizations are critical for industries such as gaming, architecture, film, and simulations. I have learned how to create dynamic, interactive 3D environments, which can be used in product design, user interfaces, and virtual simulations. Additionally, these skills can be applied in data-driven industries where graphical representations are used to explain trends, patterns, or complex results. The ability to communicate effectively through visuals is an asset that will be highly valuable in my professional career, especially as visualization techniques continue to advance in various industries.
+
+This reflection not only highlights the skills I’ve gained but also helps me frame my learning and growth in computational graphics and visualization, setting a clear foundation for future educational and professional achievements.
